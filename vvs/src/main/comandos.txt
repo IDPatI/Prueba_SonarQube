@@ -1,0 +1,5 @@
+java -jar broker.jar 3434
+
+java -jar server.jar 127.0.0.1:3434
+
+java -jar cliente.jar 127.0.0.1:3434

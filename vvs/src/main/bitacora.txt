@@ -1,0 +1,278 @@
+5/11/2018 7:01 Se registró un voto para FRESA
+6/11/2018 7:01 Se registró un voto para FRESA
+7/11/2018 7:01 Se registró un voto para FRESA
+8/11/2018 7:01 Se registró un voto para FRESA
+9/11/2018 7:01 Se registró un voto para FRESA
+10/11/2018 7:01 Se registró un voto para FRESA
+11/11/2018 7:01 Se registró un voto para FRESA
+08/11/2022 Este es un nuevo evento
+08/11/2022 Este es un nuevo evento part2
+09/11/2022 Este es un nuevo evento part3
+2022-11-11T11:26:56.719046900 Contar todos los votos
+2022-11-11T11:26:57.122406200 Listar todos los servicios del broker, Broker: 3434
+2022-11-11T11:26:57.143350300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:09.114509600 Registar voto paraPc
+2022-11-11T11:27:09.143431500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:18.417995200 Registar voto paraXbox
+2022-11-11T11:27:18.444923600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:18.894498200 Registar voto paraXbox
+2022-11-11T11:27:18.924418100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:19.059377700 Registar voto paraXbox
+2022-11-11T11:27:19.089295900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:19.675704700 Registar voto paraXbox
+2022-11-11T11:27:19.701636500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:22.117493100 Registar voto paraNintendo
+2022-11-11T11:27:22.149407800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:22.772606400 Registar voto paraNintendo
+2022-11-11T11:27:22.802526200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:27.808483 Registar voto paraNintendo
+2022-11-11T11:27:27.839401100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:28.974486600 Registar voto paraPc
+2022-11-11T11:27:29.002409600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:29.289481500 Registar voto paraPc
+2022-11-11T11:27:29.318406100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:29.473659100 Registar voto paraPc
+2022-11-11T11:27:29.502582 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:30.231485100 Registar voto paraXbox
+2022-11-11T11:27:30.257414700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:30.679303900 Registar voto paraXbox
+2022-11-11T11:27:30.726178800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:31.050972200 Registar voto paraXbox
+2022-11-11T11:27:31.079893 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:31.420112800 Registar voto paraXbox
+2022-11-11T11:27:31.448037800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:31.592546400 Registar voto paraXbox
+2022-11-11T11:27:31.621489800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:31.760486500 Registar voto paraXbox
+2022-11-11T11:27:31.788411300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:34.484946600 Registar voto paraPc
+2022-11-11T11:27:34.510877400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:34.875550300 Registar voto paraPc
+2022-11-11T11:27:34.902478400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:35.088028800 Registar voto paraPc
+2022-11-11T11:27:35.117301800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:35.716849500 Registar voto paraNintendo
+2022-11-11T11:27:35.747768100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:35.887132400 Registar voto paraNintendo
+2022-11-11T11:27:35.916054800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:36.054468700 Registar voto paraNintendo
+2022-11-11T11:27:36.085385200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:36.902776700 Registar voto paraPc
+2022-11-11T11:27:36.931928800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.051678400 Registar voto paraPc
+2022-11-11T11:27:37.080600100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.206264400 Registar voto paraPc
+2022-11-11T11:27:37.241171800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.356204200 Registar voto paraPc
+2022-11-11T11:27:37.385126600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.511788600 Registar voto paraPc
+2022-11-11T11:27:37.546694600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.650416800 Registar voto paraPc
+2022-11-11T11:27:37.682334 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.798024200 Registar voto paraPc
+2022-11-11T11:27:37.829937900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:37.947434600 Registar voto paraPc
+2022-11-11T11:27:37.980346100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.088347500 Registar voto paraPc
+2022-11-11T11:27:38.119264400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.233959500 Registar voto paraPc
+2022-11-11T11:27:38.267866800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.388948500 Registar voto paraPc
+2022-11-11T11:27:38.418866500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.543535400 Registar voto paraPc
+2022-11-11T11:27:38.576446300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.700503200 Registar voto paraPc
+2022-11-11T11:27:38.732028700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.837747400 Registar voto paraPc
+2022-11-11T11:27:38.869661900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:38.985428400 Registar voto paraPc
+2022-11-11T11:27:39.016345300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:39.141599700 Registar voto paraPc
+2022-11-11T11:27:39.172517400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:39.286583 Registar voto paraPc
+2022-11-11T11:27:39.320491500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:39.443468700 Registar voto paraPc
+2022-11-11T11:27:39.479374 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:39.601047100 Registar voto paraPc
+2022-11-11T11:27:39.637949300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:39.755437400 Registar voto paraPc
+2022-11-11T11:27:39.790344600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:27:49.371367800 Contar todos los votos
+2022-11-11T11:27:49.766216400 Listar todos los servicios del broker, Broker: 3434
+2022-11-11T11:27:49.798129900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:41:15.137611600 Contar todos los votos
+2022-11-11T11:41:15.529125300 Listar todos los servicios del broker, Broker: 3434
+2022-11-11T11:41:15.560338400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:41:21.144536400 Registar voto paraNintendo
+2022-11-11T11:41:21.191371200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:41:25.997201200 Registar voto paraPc
+2022-11-11T11:41:26.012822300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:41:30.329630400 Registar voto paraXbox
+2022-11-11T11:41:30.360871 Listar Bitacora, Cliente: 3434
+2022-11-11T11:46:59.977535500 Contar todos los votos
+2022-11-11T11:47:00.354059400 Listar todos los servicios del broker, Broker: 3434
+2022-11-11T11:47:00.400893100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:13.008209100 Registar voto paraNintendo
+2022-11-11T11:47:13.039451200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:23.269793600 Registar voto paraPc
+2022-11-11T11:47:23.301000800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:33.243612 Registar voto paraPc
+2022-11-11T11:47:33.259234600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:34.399623900 Registar voto paraPc
+2022-11-11T11:47:34.430831200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:34.790121700 Registar voto paraPc
+2022-11-11T11:47:34.805742200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:34.946371500 Registar voto paraPc
+2022-11-11T11:47:34.977577700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.099973 Registar voto paraPc
+2022-11-11T11:47:35.131186600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.256158400 Registar voto paraPc
+2022-11-11T11:47:35.287400800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.396804100 Registar voto paraPc
+2022-11-11T11:47:35.427991700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.552963 Registar voto paraPc
+2022-11-11T11:47:35.568584200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.677970800 Registar voto paraPc
+2022-11-11T11:47:35.709176800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.834145800 Registar voto paraPc
+2022-11-11T11:47:35.865388100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:35.990395 Registar voto paraPc
+2022-11-11T11:47:36.021602700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:36.131054700 Registar voto paraPc
+2022-11-11T11:47:36.162193300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:36.427813300 Registar voto paraPc
+2022-11-11T11:47:36.458999300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:36.568376300 Registar voto paraPc
+2022-11-11T11:47:36.599619100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:36.724564400 Registar voto paraPc
+2022-11-11T11:47:36.755806700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:36.865679300 Registar voto paraPc
+2022-11-11T11:47:36.896924500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.037508 Registar voto paraPc
+2022-11-11T11:47:37.053132100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.191269900 Registar voto paraPc
+2022-11-11T11:47:37.222512600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.331916300 Registar voto paraPc
+2022-11-11T11:47:37.363107900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.488104100 Registar voto paraPc
+2022-11-11T11:47:37.503697300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.613150600 Registar voto paraPc
+2022-11-11T11:47:37.644288800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.769259700 Registar voto paraPc
+2022-11-11T11:47:37.784879800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:37.894229200 Registar voto paraPc
+2022-11-11T11:47:37.925473100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.050442500 Registar voto paraPc
+2022-11-11T11:47:38.066064600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.206656 Registar voto paraPc
+2022-11-11T11:47:38.222276900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.347276800 Registar voto paraPc
+2022-11-11T11:47:38.362869600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.497481500 Registar voto paraPc
+2022-11-11T11:47:38.513103600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.638125800 Registar voto paraPc
+2022-11-11T11:47:38.669316300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:38.794288 Registar voto paraPc
+2022-11-11T11:47:38.809908600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:40.663239600 Registar voto paraXbox
+2022-11-11T11:47:40.694477200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:40.819452400 Registar voto paraXbox
+2022-11-11T11:47:40.835037900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:40.975664600 Registar voto paraXbox
+2022-11-11T11:47:41.006871500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.147499200 Registar voto paraXbox
+2022-11-11T11:47:41.163086 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.319298 Registar voto paraXbox
+2022-11-11T11:47:41.334919800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.475546400 Registar voto paraXbox
+2022-11-11T11:47:41.506753500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.647381100 Registar voto paraXbox
+2022-11-11T11:47:41.662967500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.819215700 Registar voto paraXbox
+2022-11-11T11:47:41.850422100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:41.991013200 Registar voto paraXbox
+2022-11-11T11:47:42.006636100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.147262900 Registar voto paraXbox
+2022-11-11T11:47:42.178498800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.315272600 Registar voto paraXbox
+2022-11-11T11:47:42.346468 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.471438800 Registar voto paraXbox
+2022-11-11T11:47:42.487087 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.627687400 Registar voto paraXbox
+2022-11-11T11:47:42.658894100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.799512900 Registar voto paraXbox
+2022-11-11T11:47:42.815108200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:42.940113300 Registar voto paraXbox
+2022-11-11T11:47:42.971320200 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:43.096342700 Registar voto paraXbox
+2022-11-11T11:47:43.111912500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:43.377526200 Registar voto paraXbox
+2022-11-11T11:47:43.408716700 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:43.533723 Registar voto paraXbox
+2022-11-11T11:47:43.564930500 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:43.799359800 Registar voto paraXbox
+2022-11-11T11:47:43.814870900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:43.960116200 Registar voto paraXbox
+2022-11-11T11:47:43.991320100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.131980300 Registar voto paraXbox
+2022-11-11T11:47:44.147533600 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.289176100 Registar voto paraXbox
+2022-11-11T11:47:44.320384800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.461010400 Registar voto paraXbox
+2022-11-11T11:47:44.492217300 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.637354800 Registar voto paraXbox
+2022-11-11T11:47:44.652941100 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.826391600 Registar voto paraXbox
+2022-11-11T11:47:44.841996 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:44.998185300 Registar voto paraXbox
+2022-11-11T11:47:45.013820 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.154433600 Registar voto paraXbox
+2022-11-11T11:47:45.170019400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.341889 Registar voto paraXbox
+2022-11-11T11:47:45.357476400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.498067100 Registar voto paraXbox
+2022-11-11T11:47:45.529308400 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.669938300 Registar voto paraXbox
+2022-11-11T11:47:45.685522900 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.826149900 Registar voto paraXbox
+2022-11-11T11:47:45.841735800 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:45.982363200 Registar voto paraXbox
+2022-11-11T11:47:46.013569 Listar Bitacora, Cliente: 3434
+2022-11-11T11:47:46.138540600 Registar voto paraXbox
+2022-11-11T11:47:46.154163400 Listar Bitacora, Cliente: 3434
+2023-10-03T12:03:46.998326300 Contar todos los votos
+2023-10-03T12:03:47.422614200 Listar todos los servicios del broker, Broker: 3434
+2023-10-03T12:03:47.482617 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:05.776672300 Registar voto paraPc
+2023-10-03T12:04:05.833163 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:08.492439600 Registar voto paraNintendo
+2023-10-03T12:04:08.540441700 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:09.268127400 Registar voto paraNintendo
+2023-10-03T12:04:09.316128200 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:09.721666400 Registar voto paraNintendo
+2023-10-03T12:04:09.770668600 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:09.960815300 Registar voto paraNintendo
+2023-10-03T12:04:10.017815100 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:16.895807700 Registar voto paraPc
+2023-10-03T12:04:16.942809100 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:18.296765600 Registar voto paraXbox
+2023-10-03T12:04:18.336538800 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:19.518516700 Registar voto paraNintendo
+2023-10-03T12:04:19.559957800 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:21.157885700 Registar voto paraPc
+2023-10-03T12:04:21.194402900 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:22.362047500 Registar voto paraPc
+2023-10-03T12:04:22.403990200 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:22.733032100 Registar voto paraPc
+2023-10-03T12:04:22.769030200 Listar Bitacora, Cliente: 3434
+2023-10-03T12:04:22.976608700 Registar voto paraPc
+2023-10-03T12:04:23.018434900 Listar Bitacora, Cliente: 3434
+2023-10-03T12:05:41.274926400 Contar todos los votos
+2023-10-03T12:05:41.674703600 Listar todos los servicios del broker, Broker: 3434
+2023-10-03T12:05:41.709703600 Listar Bitacora, Cliente: 3434
+2023-10-03T12:05:53.128776200 Registar voto paraNintendo
+2023-10-03T12:05:53.174437200 Listar Bitacora, Cliente: 3434
+2023-10-03T12:05:55.215934400 Registar voto paraPc
+2023-10-03T12:05:55.257935700 Listar Bitacora, Cliente: 3434
+2023-10-03T12:05:56.391630400 Registar voto paraXbox
+2023-10-03T12:05:56.430632200 Listar Bitacora, Cliente: 3434

@@ -1,0 +1,11 @@
+Produc 1,7
+Product 2,7
+Producto 4,1
+FRESA,1
+FRESAa,1
+FRESAP,2
+chocholate,1
+Chocolate,1
+Xbox,53
+Pc,72
+Nintendo,26
